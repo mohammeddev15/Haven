@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bro (2).png</file>
+        <file>brothr.png</file>
+        <file>pngtree-hiking-man-silhouette-vector-png-image_14025951.png</file>
+        <file>pngtree-person-black-logo-download-design-vector-png-image_6954214.png</file>
+        <file>robot.png</file>
+        <file>work.png</file>
+        <file>haven_icon_myster2.png</file>
+        <file>haven_icon_mystery2.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>termes</class>
+ <widget class="QMainWindow" name="termes">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1229</width>
+    <height>846</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(11, 18, 32);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QTextBrowser" name="textBrowser_2">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(255, 176, 0);</string>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt; color:#000000;&quot;&gt;شروط الاستخدام&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QTextBrowser" name="textBrowser">
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:large; font-weight:700;&quot;&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة الأولى: الموافقة المقيدة بالسلوك&lt;/span&gt;&lt;/h4&gt;
+&lt;p align=&quot;center&quot; dir='rtl' style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يعتبر اختيار المستخدم لأي شخصية من شخصيات الذكاء الاصطناعي وبدء الدردشة &lt;span style=&quot; font-weight:700;&quot;&gt;قبولاً نهائياً وغير مشروط&lt;/span&gt; بهذه الشروط. بما أن التطبيق لا يتطلب حساباً، فإن &amp;quot;الاستخدام الفعلي&amp;quot; هو الدليل القانوني على القبول وفق مقتضيات &lt;span style=&quot; font-weight:700;&quot;&gt;الفصل 2 و 493 من قانون الالتزامات والعقود المغربي&lt;/span&gt;.&lt;/p&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة الثانية: إخلاء المسؤولية من المحتوى (الوساطة التقنية)&lt;/span&gt;&lt;/h4&gt;
+&lt;ol style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يقر المستخدم بأن التطبيق هو مجرد &lt;span style=&quot; font-weight:700;&quot;&gt;واجهة تقنية (Interface)&lt;/span&gt; توفر الوصول إلى نماذج ذكاء اصطناعي مملوكة لشركات عالمية طرف ثالث (Third-party APIs).&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;بناءً على ذلك، فإن الإدارة لا تملك سيطرة كاملة على المخرجات النصية للشخصيات. أي محتوى يصدر عن الشخصيات الوهمية يعبر عن الخوارزمية ولا يعبر نهائياً عن رأي المطور.&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;تبرأ ذمة المطور من أي مسؤولية مدنية أو جنائية ناتجة عن إجابات الشخصيات، طبقاً للمبادئ العامة للمسؤولية في القانون المغربي، حيث ينعدم &amp;quot;ركن الخطأ&amp;quot; من جانب المطور.&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة الثالثة: طبيعة الشخصيات (مبدأ المحاكاة الوهمية)&lt;/span&gt;&lt;/h4&gt;
+&lt;ol style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;الشخصيات (صديق، أخ، إلخ) هي كيانات &lt;span style=&quot; font-weight:700;&quot;&gt;برمجية وهمية لا وجود لها في الواقع&lt;/span&gt;.&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يمنع منعاً كلياً الاعتماد على نصائح هذه الشخصيات في اتخاذ قرارات مصيرية (مالية، صحية، نفسية، أو قانونية).&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;أي أضرار ناتجة عن تصديق هذه الشخصيات تقع تحت مسؤولية المستخدم وحده (تقصير من جانب الضحية)، ولا يحق له المطالبة بتعويض بناءً على &lt;span style=&quot; font-weight:700;&quot;&gt;الفصل 78 من قانون الالتزامات والعقود&lt;/span&gt;.&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة الرابعة: الخصوصية وعدم التتبع&lt;/span&gt;&lt;/h4&gt;
+&lt;ol style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يقر التطبيق بأنه لا يطلب، لا يجمع، ولا يخزن أي معطيات ذات طابع شخصي (اسم، هاتف، بريد إلكتروني، أو موقع جغرافي) وفق التعريف الوارد في &lt;span style=&quot; font-weight:700;&quot;&gt;المادة 1 من القانون 09-08&lt;/span&gt;.&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;المستخدم هو المسؤول عن &lt;span style=&quot; font-weight:700;&quot;&gt;عدم كتابة&lt;/span&gt; أي معلومات شخصية أو أسرار خاصة في صندوق الدردشة. بما أن النظام مجهول، فإن كتابة المستخدم لمعلوماته تعد &amp;quot;نشراً طوعياً&amp;quot; يسقط عنه حماية الخصوصية تجاه التطبيق.&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يحذر المستخدم من أن الشركات العالمية المزودة للـ API قد يكون لها سياسات خصوصية خاصة بها، ويوافق المستخدم على أن التطبيق مجرد ناقل للخدمة.&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة الخامسة: السلوك المحظور والصرامة الجنائية&lt;/span&gt;&lt;/h4&gt;
+&lt;p align=&quot;center&quot; dir='rtl' style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;رغم عدم وجود حسابات، يحتفظ التطبيق بالحق في حظر المداخل (IP addresses) التي تحاول:&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#000000;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;استدراج الذكاء الاصطناعي لإنتاج محتوى مخالف للنظام العام أو الآداب العامة بالمغرب.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;استخدام التطبيق للتحريض على أفعال يعاقب عليها &lt;span style=&quot; font-weight:700;&quot;&gt;القانون الجنائي المغربي&lt;/span&gt;.&lt;/li&gt;
+&lt;li style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:15px; color:#ffffff;&quot; align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;محاولة اختراق أو تعطيل عمل الـ APIs المرتبطة بالتطبيق.&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'ui-sans-serif','system-ui','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size:medium; font-weight:700; color:#ffffff;&quot;&gt;المادة السادسة: التعديل والإنهاء&lt;/span&gt;&lt;/h4&gt;
+&lt;p align=&quot;center&quot; dir='rtl' style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;يحق للمطور إيقاف الخدمة أو تعديل هذه الشروط في أي وقت دون إشعار. استمرارك في استخدام الشخصيات بعد التعديل يعني موافقتك التلقائية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QPushButton" name="pushButton">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(6, 255, 14);
+font: 11pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+      </property>
+      <property name="text">
+       <string>greet</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1229</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
